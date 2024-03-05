@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "550963527567",
+    "project_id": "crudtutorial-cf547",
+    "storage_bucket": "crudtutorial-cf547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550963527567:android:4f5f0226f947f2719855fa",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYVH4I0pr02RmSMW2jUbfG0CtQWEigtpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550963527567:android:6e7b2a69807288a99855fa",
+        "android_client_info": {
+          "package_name": "com.example.firebasepr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYVH4I0pr02RmSMW2jUbfG0CtQWEigtpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550963527567:android:096a7e9a5c3a37689855fa",
+        "android_client_info": {
+          "package_name": "com.example.firecrudtut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYVH4I0pr02RmSMW2jUbfG0CtQWEigtpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550963527567:android:3151de989ff4909a9855fa",
+        "android_client_info": {
+          "package_name": "com.example.firemalayalam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYVH4I0pr02RmSMW2jUbfG0CtQWEigtpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550963527567:android:62fb42793ddfbc869855fa",
+        "android_client_info": {
+          "package_name": "com.example.underworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYVH4I0pr02RmSMW2jUbfG0CtQWEigtpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
